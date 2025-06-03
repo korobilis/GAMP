@@ -4,9 +4,9 @@ This repository contains MATLAB code to replicate all empirical results from the
 
 ## Paper
 
-**Citation**: Korobilis, D. (2020). "High-dimensional macroeconomic forecasting using message passing algorithms," *Journal of Business and Economic Statistics*, 38(3), 493-504.
+**Citation**: Korobilis, D. (2021). "High-dimensional macroeconomic forecasting using message passing algorithms," *Journal of Business and Economic Statistics*, 39(3), 493-504.
 
-**DOI**: [10.1080/07350015.2018.1537912](https://doi.org/10.1080/07350015.2018.1537912)
+**DOI**: [10.1080/07350015.2018.1537912]([https://doi.org/10.1080/07350015.2018.1537912](https://doi.org/10.1080/07350015.2019.1677472))
 
 **Abstract**: This paper introduces Generalized Approximate Message Passing (GAMP) algorithms to macroeconomic forecasting problems with many predictors, providing computationally efficient alternatives to traditional shrinkage methods like LASSO and Ridge regression.
 
