@@ -27,7 +27,7 @@ high-dimensional-forecasting-gamp/
 │   │   └── MONTE_CARLO_AR/           # AR(4) likelihood estimation
 │   └── APPENDIX_D/                    # Volatility exercises (Online Appendix D)
 │       └── VOLATILITY_ESTIMATES.m    # Figures D.1 and D.2
-└── GAMP/                              # Tutorial code (2017 working paper)
+└── DEMO/                              # Tutorial code (2017 working paper)
     ├── README.md                      # Simple example instructions
     ├── MONTE_CARLO.m                  # Univariate regression demonstration
     └── functions/                     # Core GAMP algorithm functions
@@ -89,9 +89,9 @@ cumsum(MSFE)
 - Replicates exercises in Online Appendix D.1
 - **Generates**: Figures D.1 and D.2
 
-### 2. GAMP Package - Tutorial Implementation
+### 2. DEMO Package - Tutorial Implementation
 
-**Location**: [`GAMP/`](GAMP/)
+**Location**: [`DEMO/`](DEMO/)
 
 **Purpose**: User-friendly demonstration of GAMP algorithms in simple settings, based on the 2017 working paper version.
 
